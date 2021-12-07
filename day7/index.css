@@ -63,16 +63,4 @@
   
   .stop-btn {
       background-color: var(--wine-red);
-  }
-  
-  .vol-btn {
-      background-color: var(--snow);
-  }
-  
-  .vol-btn, #volume {
-      color: var(--gold);
-  }
-  
-  .next-btn {
-      display: none;
-  }
+  }  
