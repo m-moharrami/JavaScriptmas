@@ -10,3 +10,8 @@ playBtn.addEventListener("click", function() {
 pauseBtn.addEventListener("click", function() {
     audioElement.pause();
 })
+
+stopBtn.addEventListener("click", function() {
+    audioElement.pause();
+    audioElement.currentTime = 0;
+})
