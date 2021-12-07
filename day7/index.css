@@ -58,11 +58,6 @@
       transform: scale(1.02)
   }
   
-  .pause-btn {
-      background-color: var(--gold);
-      color: var(--wine-red)
-  }
-  
   .stop-btn {
       background-color: var(--wine-red);
   }  
