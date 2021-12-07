@@ -1,6 +1,5 @@
 :root {
     --wine-red: #C7375F;
-    --bright-red: #D42D2F;
     --dark-green: #344D2F;
     --light-green: #77A047;
     --gold: #FAC57D;
@@ -20,7 +19,10 @@
   }
   
   body {
-      background-color: var(--bright-red);
+      background-image: url("background.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
       height: 100vh;
   }
   
