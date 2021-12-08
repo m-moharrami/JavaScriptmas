@@ -71,7 +71,7 @@ button:hover {
     }
 }
 
-#shakingBell {
+.shaking {
     display: inline-block;
     animation: .5s infinite alternate shake;
 }
